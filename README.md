@@ -31,5 +31,9 @@ Fork a repository copy someone elses repository onto your own Github account bui
 branches and merging - one can create different branches that is different versions of the repository that are active at the same time.and also merge the repo to one.
 
 
+create branches
+
+
+
 
 
